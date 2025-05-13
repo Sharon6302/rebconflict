@@ -1,1 +1,1 @@
-This r2.txt file is added at remote location
+This r2.txt file is added in both main and feature branch
